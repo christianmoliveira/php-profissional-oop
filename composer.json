@@ -1,0 +1,15 @@
+{
+    "name": "chris/php-profissional-oop",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+            
+        ]
+    },
+    "require": {
+        "league/plates": "^3.4",
+        "symfony/var-dumper": "^6.0"
+    }
+}
